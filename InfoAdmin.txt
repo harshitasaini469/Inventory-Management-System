@@ -1,0 +1,59 @@
+Admin  logged in
+ The updated list is:
+************Inventory Shop******************
+Item name :- mobile
+quantity :- 15
+price :-9000.0
+
+Item name :- charger
+quantity :- 50
+price :-100.0
+
+Item name :- pendrive
+quantity :- 45
+price :-200.0
+
+Item name :- laptop
+quantity :- 20
+price :-43000.0
+
+Item name :- tab
+quantity :- 25
+price :-23000.0
+
+Item name :- cooler
+quantity :- 30
+price :-5500.0
+
+Item name :- dishwasher
+quantity :- 20
+price :-6000.0
+
+Item name :- television
+quantity :- 15
+price :-17000.0
+
+Item name :- camera
+quantity :- 50
+price :-8000.0
+
+Item name :- speakers
+quantity :- 12
+price :-4000.0
+
+Item name :- Iron
+quantity :- 32
+price :-780.0
+
+Item name :- earphones
+quantity :- 32
+price :-100.0
+
+Item name :- ksdjka
+quantity :- 1
+price :-232.0
+
+Item name :- kadjfak
+quantity :- 2
+price :-23.0
+
